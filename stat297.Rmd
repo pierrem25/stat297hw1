@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Group members
 
-## Pierre le colibri
+## Pierre Marle
 
 Université de Genève + Université BesançOn de Franche Comté région Bourgogne
 
