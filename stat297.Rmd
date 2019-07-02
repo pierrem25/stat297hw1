@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Pierre
 
-Université de Genève + Université BesançOn de Franche Comté
+Université de Genève + Université BesançOn de Franche Comté région Bourgogne
 
 Este freshwater biologist desde muchos años, trabaja sobre los peces y los invertebrados del rio Rhône en Francia. 
 
