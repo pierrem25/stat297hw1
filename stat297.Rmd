@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Université de Genève + Université BesançOn de Franche Comté région Bourgogne
 
-Este freshwater biologist desde muchos años, trabaja sobre los peces y los invertebrados del rio Rhône en Francia. 
+Este freshwater biologist desde muchos años, trabaja sobre los peces y los invertebrados del rio Rhône en Francia. Aun no ha publicado nada para su tesis a pesar de llevar 3 años en su doctorado.
 
 ## Pabuelito
 
